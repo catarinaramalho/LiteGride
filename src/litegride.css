@@ -1,0 +1,12 @@
+.grid-stack{
+    background-color: #0e2a47ff;
+    width: 90%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+.grid-stack-item-content{
+    background-color:white;
+}
